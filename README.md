@@ -163,4 +163,4 @@ Workforce demographics
 These insights support strategic decision-making and workforce planning.
 
 📸 Dashboard Preview:
-[Dashboard Preview](https://github.com/mohdarhambeg/Data-Professional-Survey-Dashboard/blob/main/Screenshot%20of%20the%20Dashboard%20.png)
+![Dashboard Preview](https://github.com/mohdarhambeg/Data-Professional-Survey-Dashboard/blob/main/Screenshot%20of%20the%20Dashboard%20.png)
